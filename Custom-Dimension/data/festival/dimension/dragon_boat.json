@@ -1,0 +1,28 @@
+{
+      "type": "festival:dragon_boat_type",
+      "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+          "biome": "minecraft:plains",
+          "layers": [
+            {
+              "block": "minecraft:bedrock",
+              "height": 1
+            },
+            {
+              "block": "minecraft:stone",
+              "height": 50
+            },
+            {
+              "block": "minecraft:dirt",
+              "height": 10
+            },
+            {
+              "block": "minecraft:grass_block",
+              "height": 1
+            }
+          ],
+          "structure_overrides": []
+    }
+  }
+}
