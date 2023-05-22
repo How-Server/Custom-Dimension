@@ -1,5 +1,5 @@
 {
-      "type": "festival:dragon_boat_type",
+      "type": "how_festival:dragon_boat_type",
       "generator": {
         "type": "minecraft:flat",
         "settings": {

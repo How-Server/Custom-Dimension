@@ -1,5 +1,5 @@
 {
-  "type": "shop:distorted_type",
+  "type": "how_shop:distorted_type",
   "generator": {
     "type": "minecraft:flat",
     "settings": {
