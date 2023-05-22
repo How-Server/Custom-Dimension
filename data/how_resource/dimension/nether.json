@@ -6,7 +6,7 @@
       "type": "minecraft:fixed"
     },
     "seed": 286956243,
-    "settings": "minecraft:overworld",
+    "settings": "minecraft:nether",
     "type": "minecraft:noise"
   }
 }

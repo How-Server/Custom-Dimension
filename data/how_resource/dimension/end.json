@@ -2,7 +2,7 @@
   "type": "minecraft:the_end",
   "generator": {
     "biome_source": {
-      "biome": "minecraft:plains",
+      "biome": "minecraft:the_end",
       "type": "minecraft:fixed"
     },
     "seed": 286956243,
